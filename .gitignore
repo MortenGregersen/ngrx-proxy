@@ -1,0 +1,7 @@
+/build
+/dist
+/tmp
+/out-tsc
+/logs
+/node_modules
+/.idea
